@@ -1,5 +1,5 @@
 # readingNotice2slack
-- slackで読書時間を通知します。。
+- slackで読書時間を通知します。
 - 「<slack webhookのurl>, setTime」の箇所を変更してください。
 - スクリプトをGoogle App Scriptに貼り付けて、トリガー設定してお使いください。
 - 実効対象の関数はsetTriggerを指定してください。
